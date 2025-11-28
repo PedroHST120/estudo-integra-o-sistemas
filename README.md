@@ -7,6 +7,8 @@
 
 > Site educacional apresentando a integração entre HTML, Banco de Dados e Aplicativos Mobile
 
+## 🌐 [Acesse o Site Aqui](https://pedrohst120.github.io/estudo-integra-o-sistemas/)
+
 ## 📋 Sobre o Projeto
 
 Este é um trabalho de pesquisa desenvolvido para apresentar de forma interativa e visual como funcionam as tecnologias web modernas e sua integração com bancos de dados e aplicativos mobile. O site demonstra conceitos fundamentais através de exemplos práticos de aplicações reais como iFood e Nubank.
@@ -96,14 +98,6 @@ O site é totalmente responsivo e funciona perfeitamente em:
 - ✅ Acessibilidade considerada
 - ✅ SEO friendly
 - ✅ Cross-browser compatible
-
-## 📸 Screenshots
-
-### Tema Light
-![Tema Light](https://via.placeholder.com/800x400/667eea/ffffff?text=Tema+Light)
-
-### Tema Dark
-![Tema Dark](https://via.placeholder.com/800x400/212529/ffffff?text=Tema+Dark)
 
 ## 📄 Licença
 
